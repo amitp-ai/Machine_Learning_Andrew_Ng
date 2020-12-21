@@ -1,3 +1,4 @@
+Using Octave (it's open source version of Matlab)
 ---------------
 
 For Windows users:
