@@ -1,3 +1,6 @@
+## This repo contains all my assignments for Andrew Ng's Machine Learning Course at Stanford (through Coursera)
+
+
 Using Octave (it's open source version of Matlab)
 ---------------
 
